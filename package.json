@@ -2,7 +2,7 @@
   "name": "tictactoe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adharv49.github.io/react-portfolio",
+  "homepage": "https://adharv49.github.io/TicTacToe-Using-React",
 
   "dependencies": {
     "@react-hook/window-size": "^3.1.1",
